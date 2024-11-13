@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AkhiWeb
-- 👀 I’m interested in Embedded Systems
-- 🌱 I have completed hands-on training in Embedded Systems from Emertxe Institute
+- 👋 Hi, I’m Akhilesh Kumar Saliganti
+- 👀 I’m interested in Embedded Systems.
+- 🌱 I have completed hands-on training in Embedded Systems from Emertxe Information Technologies, Bangalore.
 - 💞️ I’m looking to collaborate on a challenging role to enhance my skills and make contribution in the field.
 - 📫 Reach me through e-mail : sakhliesh524600@gmail.com
 
